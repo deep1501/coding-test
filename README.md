@@ -1,5 +1,3 @@
-# coding-test
-
 Snake And Ladder
 ----------------
 There is simple instruction that has to be followed in CLI.
